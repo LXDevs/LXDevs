@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lxdigitalstudio7@gmail.com"><img src="https://img.shields.io/badge/E--mail-lxdigitalstudio7%40gmail.com-ff5a1f?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail: lxdigitalstudio7@gmail.com"></a>
+  <a href="mailto:lxdigitalstudio7@gmail.com"><img src="https://img.shields.io/badge/E--mail-lxdigitalstudio7%40gmail.com-2f7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail: lxdigitalstudio7@gmail.com"></a>
 </p>
 
 ---
